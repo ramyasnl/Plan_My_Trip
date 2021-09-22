@@ -10,6 +10,8 @@ And a scheduled vacation according to your weather preference can give you somet
 - NumPy
 - OpenWeatherMap API
 - Google Maps Direction API
+## What Is An Application Programming Interface?</br>
+![](https://github.com/ramyasnl/Plan_My_Trip/blob/main/Deliverable1/REST_API.png)
 
 ## What We Are Creating<br/>
 
