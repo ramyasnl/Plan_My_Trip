@@ -1,6 +1,6 @@
 # PlanMyTrip App <br/>
 ## Background <br/>
-In this remote working world where the stress of work and school is overwhelming, we need a break to destress our minds. 
+In this remote working world where the stress of work and virtua lschooling is overwhelming, we need a break to destress  ourselves. 
 Traveling is one good way to take your mind off stressful things. 
 And a scheduled vacation according to your weather preference can give you something to look forward to.
 <b> Plan My Trip </b> can help you choose your travel destination according to your weather preference.<br/>
